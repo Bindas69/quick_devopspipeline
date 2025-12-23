@@ -1,2 +1,2 @@
 # KAN-10: CI Pipeline
-Automated GitHub Actions workflow
+Automated GitHub Actions workflow.
